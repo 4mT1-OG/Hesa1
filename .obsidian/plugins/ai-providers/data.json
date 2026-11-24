@@ -1,0 +1,28 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "debugChunkLogging": false,
+  "useNativeFetch": false,
+  "ollamaContextScale": 1.5,
+  "providers": [
+    {
+      "id": "id-1795509382136",
+      "name": "Ollama",
+      "apiKey": "f99dc8e87a644e379eda433a3cd0eba9.kCbhJha6vaFsL7otEXmuy7Ig",
+      "url": "http://localhost:11434",
+      "type": "ollama",
+      "model": "ornith:9b",
+      "availableModels": [
+        "ornith:9b"
+      ],
+      "modelCapabilities": {
+        "ornith:9b": {
+          "embedding": false,
+          "text": true,
+          "tools": true,
+          "vision": false
+        }
+      }
+    }
+  ]
+}

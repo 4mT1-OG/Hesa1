@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"278903a5bf0111dc","type":"text","text":"Productivity [P]","x":160,"y":120,"width":180,"height":50},
+		{"id":"b712b53f8e38efd4","type":"text","text":"Agents [A]","x":-240,"y":120,"width":144,"height":50},
+		{"id":"6700562320d84805","type":"text","text":"Research [R]","x":380,"y":120,"width":144,"height":50},
+		{"id":"dcc0de28f133d294","type":"text","text":"Skills ","x":-20,"y":-180,"width":100,"height":50},
+		{"id":"a29b62e8020ae2b2","type":"text","text":"Front [F] ","x":-280,"y":-100,"width":120,"height":50},
+		{"id":"f93dad320e75ff86","type":"text","text":"Back [B]","x":280,"y":-100,"width":120,"height":50},
+		{"id":"42af6d131fb4972e","type":"text","text":"Development [D] ","x":-150,"y":-15,"width":180,"height":50},
+		{"id":"d7013c5fcc4434a3","type":"text","text":"Software [S]","x":60,"y":-15,"width":150,"height":50},
+		{"id":"a3bef8ffab3e06fb","type":"text","text":"Generating a agent skill workflow map initially we divide skills into f-front end and b-backend then an action d = development a = agents p=productivity r=research s=software and then an action for example bdoa-v b for back end d - development category oa - obsidian audit v- validation bdoa-v = back-end development obsidian audit validation","x":-640,"y":-409,"width":324,"height":394}
+	],
+	"edges":[
+		{"id":"785bc9ba779f92a9","fromNode":"a29b62e8020ae2b2","fromSide":"top","toNode":"dcc0de28f133d294","toSide":"bottom"},
+		{"id":"fd42afff39b90a3d","fromNode":"f93dad320e75ff86","fromSide":"top","toNode":"dcc0de28f133d294","toSide":"bottom"}
+	]
+}

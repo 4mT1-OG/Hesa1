@@ -1,0 +1,12 @@
+# Obsidian machine-specific state and temporary review material
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+Temp/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

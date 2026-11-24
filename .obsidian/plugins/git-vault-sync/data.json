@@ -1,0 +1,20 @@
+{
+  "remoteUrl": "https://github.com/4mT1-OG/Hesa.git",
+  "branch": "main",
+  "authorName": "4mT1-OG",
+  "authorEmail": "wse.n00b@gmail.com",
+  "username": "4mT1-OG",
+  "token": "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",
+  "commitMessage": "vault sync {{date}}",
+  "autoSyncEnabled": true,
+  "autoSyncInterval": 10,
+  "syncOnStartup": true,
+  "lastSyncAt": 1795395315821,
+  "excludePaths": ".obsidian/workspace.json\n.obsidian/workspace-mobile.json\n.DS_Store\n.trash/",
+  "language": "auto",
+  "syncEngine": "auto",
+  "apiBaseline": {
+    "commitSha": null,
+    "shas": {}
+  }
+}
